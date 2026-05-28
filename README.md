@@ -124,9 +124,13 @@ Pozostałe kolory             →  PUSTY (ziemia)
 
 ## 📸 Zrzuty ekranu / Screenshots
 
-![Menu wyboru mapy](screenshots/menu.png)
-![Symulacja w toku](screenshots/simulation.png) 
-![Pożar po gęstym lesie](screenshots/dense_forest_fire.png) 
+| ![Menu wyboru mapy](screenshots/menu.png) |
+| :---: |
+| *Rysunek 1. Menu wyboru mapy w symulacji pożaru lasu opartej na automatach komórkowych* |
+| ![Symulacja w toku](screenshots/simulation.png) | 
+| *Rysunek 2. Symulacja pożaru lasu w toku - miejsca podpaleń i rozprzestrzenianie się ognia* |
+| ![Pożar po gęstym lesie](screenshots/dense_forest_fire.png) |
+| *Rysunek 3. Pożar po gęstym lesie oraz powstałe w jego wyniku zgliszcza* |
 
 ---
 
